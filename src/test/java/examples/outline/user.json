@@ -1,0 +1,11 @@
+{
+  "name": '#(name)',
+  "username": '#(username)',
+  "email": '#(email)',
+  "address": {
+    "street": '#(street)',
+    "suite": '#(suite)',
+    "city": '#(city)',
+    "zipcode": '#(zipcode)'
+  }
+}
